@@ -1,0 +1,5 @@
+,Latitude,Longitude,Max Temp,Humidity,Cloudiness,Wind Speed,Date
+count,4.0,4.0,4.0,4,4,4,4
+unique,4.0,4.0,4.0,4,3,4,1
+top,70.622169,119.460526,248.23,79,0,PF,1612830409
+freq,1.0,1.0,1.0,1,2,1,4

@@ -1,4 +1,5 @@
 api_keys.py
+output_data
 # trying to clean this up
 # Byte-compiled / optimized / DLL files
 __pycache__/
